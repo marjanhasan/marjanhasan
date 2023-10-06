@@ -154,65 +154,8 @@
 
 <div>
   <p align="center">
-	<a href="https://github.com/marjanhasan/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/marjanhasan/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/marjanhasan/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/marjanhasan/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/marjanhasan/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/marjanhasan/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/marjanhasan/Shorten-Link">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
 	<a href="https://github.com/marjanhasan/marjanhasan">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=marjanhasan&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/marjanhasan/Competitive-Programming-Session-Content">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/marjanhasan/VS-Code-for-CP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/marjanhasan/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/marjanhasan/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/marjanhasan/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/marjanhasan/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/marjanhasan/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/marjanhasan/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/marjanhasan/Codeforces-Friends-Script">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/marjanhasan/vJudge-Board-Scrapper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/marjanhasan/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/marjanhasan/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=marjanhasan&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
@@ -224,9 +167,9 @@
 
 <p align="center">
 	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marjanhasan/marjanhasan/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marjanhasan/marjanhasan/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marjanhasan/marjanhasan/output/github-contribution-grid-snake.svg">
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
 	</picture>
 </p>
 
