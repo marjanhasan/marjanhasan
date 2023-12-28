@@ -38,7 +38,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/moonmarjanhasan?theme=nord&font=Salsa&ext=activity)
 
 <div align="center" width=100%>
-  <a href="https://codeforces.com/profile/marjan_hasan"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
+  <a href="https://codeforces.com/profile/marjanhasan"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
 	  &emsp; 
 	<a href="https://www.leetcode.com/moonmarjanhasan"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
 	  &emsp; 
