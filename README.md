@@ -23,7 +23,7 @@
 
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a little competitive programmer at `Codeforces`, `Leetcode`, `Codechef` and `CSES`.
-- :student: I’m currently learning `Python`, `Django` and participating in contests on different online judges like`Codeforces` and `Codechef`.
+- :student: I’m currently learning `Python` and `Django`.
 - :nerd_face: Always `learning new tricks to solve a problem`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/14nNqT0L-XAVOSVxViWFWLQLnqLo5kCRZ/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://marjan-portfolio.netlify.app/).
