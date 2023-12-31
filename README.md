@@ -54,7 +54,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/moonmarjanhasan?theme=nord&font=Salsa&ext=activity)
 
 <br />
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?marjanhasan=redheadphone)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=marjanhasan)
 <br/>
 ## Frontend
 
