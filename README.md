@@ -27,15 +27,12 @@
 - :nerd_face: Always `learning new tricks to solve a problem`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/14nNqT0L-XAVOSVxViWFWLQLnqLo5kCRZ/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://marjan-portfolio.netlify.app/).
+- 🥅 2024 Goals: Get a job & solve 1000 problems at `Codeforces` & `Leetcode`.
   <be>
 
 <!-- Competitive Programming Profiles -->
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
-
-<!-- https://leetcard.jacoblin.cool/ -->
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/moonmarjanhasan?theme=nord&font=Salsa&ext=activity)
 
 <div align="center" width=100%>
   <a href="https://codeforces.com/profile/marjanhasan"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
@@ -51,7 +48,13 @@
 	<!-- <a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%> -->
 
 </div>
-
+<!-- https://leetcard.jacoblin.cool/ -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/moonmarjanhasan?theme=nord&font=Salsa&ext=activity)
+<br />
+<p float="left">
+    <img height="230px" src="https://raw.githubusercontent.com/marjanhasan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
+</p>
+<br/>
 ## Frontend
 
 [![HTML5 Badge](https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26)](#)
