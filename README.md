@@ -63,7 +63,7 @@
 
 ## Programming Language
 [![C Badge](https://img.shields.io/badge/C-%23007ACC.svg?style=for-the-badge&labelColor=black&logo=C&logoColor=007ACC)](#)
-[![CPP Badge](https://img.shields.io/badge/CPP-%23007ACC.svg?style=for-the-badge&labelColor=black&logo=CPP&logoColor=007ACC)](#)
+[![C++ Badge](https://img.shields.io/badge/-C++-%23007ACC.svg?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=007ACC)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Python Badge](https://img.shields.io/badge/Python-%23007ACC.svg?style=for-the-badge&labelColor=black&logo=Python&logoColor=007ACC)](#)
 ## Tools
