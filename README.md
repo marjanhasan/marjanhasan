@@ -53,9 +53,11 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/moonmarjanhasan?theme=nord&font=Salsa&ext=activity)
 
-<br />
+<br >
+
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=marjanhasan)
-<br/>
+
+<br>
 ## Frontend
 
 [![HTML5 Badge](https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26)](#)
