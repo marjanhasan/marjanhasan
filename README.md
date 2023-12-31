@@ -51,11 +51,16 @@
 </div>
 <!-- https://leetcard.jacoblin.cool/ -->
 <br>
-
+<div align="center">
+	
 ![LeetCode Stats](https://leetcard.jacoblin.cool/moonmarjanhasan?theme=nord&font=Salsa&ext=activity)
 
+</div>
+<div align="center">
+	
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=marjanhasan&theme=gruvbox)
 
+</div>
 
 ## Skills
 
