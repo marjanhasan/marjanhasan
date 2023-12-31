@@ -49,11 +49,16 @@
 
 </div>
 <!-- https://leetcard.jacoblin.cool/ -->
+<br/>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/moonmarjanhasan?theme=nord&font=Salsa&ext=activity)
+
 <br />
+
 <p float="left">
     <img height="230px" src="https://raw.githubusercontent.com/marjanhasan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
 </p>
+
 <br/>
 ## Frontend
 
