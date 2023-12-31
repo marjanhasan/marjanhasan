@@ -23,13 +23,13 @@
 
 <img align="right" src="https://github.com/marjanhasan/marjanhasan/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
+- :calendar: 2024 Goals: Get a `Job` & solve 1000 problems at `Codeforces` & `Leetcode`.
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a little competitive programmer at `Codeforces`, `Leetcode`, `Codechef` and `CSES`.
 - :student: I’m currently learning `Python` and `Django`.
 - :nerd_face: Always `learning new tricks to solve a problem`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/14nNqT0L-XAVOSVxViWFWLQLnqLo5kCRZ/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://marjan-portfolio.netlify.app/).
-- 🥅 2024 Goals: Get a `Job` & solve 1000 problems at `Codeforces` & `Leetcode`.
 
 <!-- Competitive Programming Profiles -->
 
