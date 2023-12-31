@@ -19,7 +19,7 @@
 
 <img align="right" src="https://github.com/marjanhasan/marjanhasan/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
-<br><br>
+<br> <br>
 
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a little competitive programmer at `Codeforces`, `Leetcode`, `Codechef` and `CSES`.
@@ -28,12 +28,13 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/14nNqT0L-XAVOSVxViWFWLQLnqLo5kCRZ/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://marjan-portfolio.netlify.app/).
 - 🥅 2024 Goals: Get a `Job` & solve 1000 problems at `Codeforces` & `Leetcode`.
-  <be>
+<br> <br>
 
 <!-- Competitive Programming Profiles -->
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
-
+<br>
+<br>
 <div align="left" width=100%>
   <a href="https://codeforces.com/profile/marjanhasan"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
 	  &emsp; 
@@ -49,15 +50,15 @@
 
 </div>
 <!-- https://leetcard.jacoblin.cool/ -->
-<br/>
+<br> <br>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/moonmarjanhasan?theme=nord&font=Salsa&ext=activity)
 
-<br >
+<br ><br>
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=marjanhasan)
 
-<br>
+<br> <br>
 ## Frontend
 
 [![HTML5 Badge](https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26)](#)
