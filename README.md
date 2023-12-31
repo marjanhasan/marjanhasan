@@ -70,6 +70,7 @@
 
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078D7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078D7)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#)
+[![Linux Badge](https://img.shields.io/badge/-Linux-F0DB4F?style=for-the-badge&labelColor=black&logo=linux&logoColor=F0DB4F)](#)
 <!-- [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=E85824)](#)
 [![NPM Badge](https://img.shields.io/badge/NPM-%23CC3534.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=CC3534)](#) -->
 
