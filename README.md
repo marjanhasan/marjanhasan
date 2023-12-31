@@ -27,7 +27,7 @@
 - :nerd_face: Always `learning new tricks to solve a problem`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/14nNqT0L-XAVOSVxViWFWLQLnqLo5kCRZ/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://marjan-portfolio.netlify.app/).
-- 🥅 2024 Goals: Get a job & solve 1000 problems at `Codeforces` & `Leetcode`.
+- 🥅 2024 Goals: Get a `Job` & solve 1000 problems at `Codeforces` & `Leetcode`.
   <be>
 
 <!-- Competitive Programming Profiles -->
@@ -54,11 +54,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/moonmarjanhasan?theme=nord&font=Salsa&ext=activity)
 
 <br />
-
-<p float="left">
-    <img height="230px" src="https://raw.githubusercontent.com/marjanhasan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
-</p>
-
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?marjanhasan=redheadphone)
 <br/>
 ## Frontend
 
