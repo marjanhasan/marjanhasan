@@ -1,6 +1,3 @@
-a {
-  text-decoration: none;
-}
 ## Welcome to Marjan Hasan Moon's profile!
 
 ## I Code With...
@@ -25,6 +22,7 @@ a {
 - :boom: You can visit [MY WEBSITE](https://marjan-portfolio.netlify.app/).
 
 ## Problem Solving Profiles
+
 <p>
   <a title="Codeforces" href="https://codeforces.com/profile/marjanhasan">
     <img src="https://img.icons8.com/?size=100&id=YSy0lU4Y0X4z&format=png&color=000000" width="40" height="40" />
@@ -44,6 +42,7 @@ a {
 </p>
 
 ## Social Media Account
+
 <p>
   <a title="Facebook" href="https://www.facebook.com/marjanhasanmoon/">
     <img src="https://img.icons8.com/fluency/48/000000/facebook.png" width="40" height="40" />
@@ -56,7 +55,8 @@ a {
   </a>
 </p>
 
-## Thank You ❤
+## Thank You
+
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p>
