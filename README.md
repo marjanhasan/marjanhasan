@@ -2,15 +2,22 @@
 
 ## I Code With...
 
-[![C Badge](https://img.shields.io/badge/C-%23007ACC.svg?style=for-the-badge&labelColor=black&logo=C&logoColor=007ACC)](#)
-[![C++ Badge](https://img.shields.io/badge/-C++-%23007ACC.svg?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=007ACC)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![HTML5 Badge](https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26)](#)
-[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-553C7B?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=553C7B)](#)
-[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078D7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078D7)](#)
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## About me
 - :calendar: 2024 Goals: Get a `Job` & solve 1000 problems at `Codeforces` & `Leetcode`.
@@ -23,16 +30,10 @@
 
 ## Problem Solving Profiles
 
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/marjanhasan)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/marjanhasan99)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/moonmarjanhasan/)
 <p>
-  <a title="Codeforces" href="https://codeforces.com/profile/marjanhasan">
-    <img src="https://img.icons8.com/?size=100&id=YSy0lU4Y0X4z&format=png&color=000000" width="40" height="40" />
-  </a>
-  <a title="Codechef" href="https://www.codechef.com/users/marjanhasan99">
-    <img src="https://img.icons8.com/fluency/48/000000/codechef.png" width="40" height="40" />
-  </a>
-  <a title="Leetcode" href="https://leetcode.com/u/moonmarjanhasan/">
-    <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" width="40" height="40" />
-  </a>
   <a title="CSES" href="https://cses.fi/user/181958">
     <img src="https://cses.fi/logo.png?1" width="40" height="40" />
   </a>
@@ -43,17 +44,13 @@
 
 ## Social Media Account
 
-<p>
-  <a title="Facebook" href="https://www.facebook.com/marjanhasanmoon/">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook.png" width="40" height="40" />
-  </a>
-  <a title="Linkedin" href="https://www.linkedin.com/in/marjanhasan/">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40" height="40" />
-  </a>
-  <a title="Twitter" href="https://twitter.com/marjanhasanmoon">
-    <img src="https://img.icons8.com/fluency/48/twitter-squared.png" width="40" height="40" />
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](moonmarjanhasan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marjanhasan/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/marjanhasanmoon/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/marjanhasanmoon)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+880782210366)
+
 
 ## Thank You
 
