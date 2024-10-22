@@ -1,4 +1,8 @@
 ## Welcome to My Code Playground! 💻🎮
+*Welcome to my GitHub profile! Here, I document my coding journey, showcasing projects that reflect my passion for problem-solving and continuous learning.
+Every day, I code and commit, taking steps toward mastering new technologies and improving my skills. I believe in the power of collaboration and the impact of sharing knowledge.
+Feel free to explore my repositories, contribute to discussions, or reach out if you'd like to collaborate on a project. Let's build something great together!*
+
 <br/>
 
 ## I Code With... ⚙️💻
@@ -33,7 +37,7 @@
 
 <br/>
 
-## Problem-Solving Profiles 🧠🔍
+## Problem-Solving Profiles 🧩🧊
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/marjanhasan)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/marjanhasan99)
