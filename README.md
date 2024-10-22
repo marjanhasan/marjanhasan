@@ -1,6 +1,7 @@
-## Welcome to Marjan Hasan Moon's profile!
+## Welcome to My Code Playground! 💻🎮
+<br/>
 
-## I Code With...
+## I Code With... ⚙️💻
 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
@@ -19,7 +20,9 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 
-## About me
+<br/>
+
+## About Me 😎🎯
 - :calendar: 2024 Goals: Get a `Job` & solve 1000 problems at `Codeforces` & `Leetcode`.
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a little problem solver at `Codeforces`, `Leetcode` and `Codechef`.
@@ -28,7 +31,9 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/14nNqT0L-XAVOSVxViWFWLQLnqLo5kCRZ/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://marjan-portfolio.netlify.app/).
 
-## Problem Solving Profiles
+<br/>
+
+## Problem-Solving Profiles 🧠🔍
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/marjanhasan)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/marjanhasan99)
@@ -42,7 +47,9 @@
   </a>
 </p>
 
-## Social Media Account
+<br/>
+
+## Social Media Account 🌍💬
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](moonmarjanhasan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marjanhasan/)
@@ -51,8 +58,9 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/marjanhasanmoon)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801782210366)
 
+<br/>
 
-## Thank You
+## Thank You 🙏💖
 
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
