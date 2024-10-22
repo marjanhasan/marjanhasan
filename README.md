@@ -32,8 +32,8 @@ Feel free to explore my repositories, contribute to discussions, or reach out if
 - :computer: I am a little problem solver at `Codeforces`, `Leetcode` and `Codechef`.
 - :student: I’m currently learning `DSA`.
 - :nerd_face: Always `learning new tricks to solve a problem`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/14nNqT0L-XAVOSVxViWFWLQLnqLo5kCRZ/view?usp=sharing).
-- :boom: You can visit [MY WEBSITE](https://marjan-portfolio.netlify.app/).
+- :thinking: I’m currently open to a new `job opportunity`.
+<!-- :boom: You can visit [MY WEBSITE](https://marjan-portfolio.netlify.app/). -->
 
 <br/>
 
@@ -55,7 +55,7 @@ Feel free to explore my repositories, contribute to discussions, or reach out if
 
 ## Social Media Account 🌍💬
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](moonmarjanhasan@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=moonmarjanhasan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marjanhasan/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/marjanhasanmoon/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/marjan4426)
