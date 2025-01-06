@@ -4,6 +4,8 @@ Every day, I code and commit, taking steps toward mastering new technologies and
 Feel free to explore my repositories, contribute to discussions, or reach out if you'd like to collaborate on a project. Let's build something great together!*
 
 <br/>
+## WakaTime Code Stats for 2024
+https://wakatime.com/a-look-back-at-2024/5225e8ed-9a14-4fe9-b3f5-b0a5b485c255/vyezkqizhn
 
 ## I Code With... ⚙️💻
 
