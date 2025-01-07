@@ -1,22 +1,42 @@
 ## Welcome to My Code Playground! 💻🎮
-*Welcome to my GitHub profile! Here, I document my coding journey, showcasing projects that reflect my passion for problem-solving and continuous learning.
-Every day, I code and commit, taking steps toward mastering new technologies and improving my skills. I believe in the power of collaboration and the impact of sharing knowledge.
-Feel free to explore my repositories, contribute to discussions, or reach out if you'd like to collaborate on a project. Let's build something great together!*
+
+Hello! I'm a **self-taught developer** passionate about problem-solving, continuous learning, and building impactful projects. With expertise in **C++, JavaScript, HTML, CSS, React.js, Vue.js, Git, DSA,** and **OOP**, I love turning ideas into functional and scalable solutions.
+
+I’ve solved over **500 coding problems** on platforms like **LeetCode, Codeforces,** and **CodeChef**, dedicating more than **1000 hours** to honing my coding skills. Each day, I strive to learn, grow, and contribute to exciting projects that drive innovation and create value.
+
+- 🔍 Always curious and eager to explore new technologies.  
+- 🤝 Open to collaborations and knowledge sharing.  
+
+Feel free to explore my repositories, connect with me, or contribute to projects. Let’s build something great together!
+
 
 <br/>
+
 ## WakaTime Code Stats for 2024
-https://wakatime.com/a-look-back-at-2024/5225e8ed-9a14-4fe9-b3f5-b0a5b485c255/vyezkqizhn
+
+[![WakaTime Year in Review 2024](https://img.shields.io/badge/WakaTime-Year%20in%20Review%202024-2ea44f?style=for-the-badge&logo=wakatime)](https://wakatime.com/a-look-back-at-2024/5225e8ed-9a14-4fe9-b3f5-b0a5b485c255/vyezkqizhn)  
+Click above to explore my detailed coding journey of 2024 on WakaTime.
+
+<br />
+
+## Total Coding Time with VS Code
+
+[![WakaTime Badge](https://wakatime.com/badge/user/5225e8ed-9a14-4fe9-b3f5-b0a5b485c255.svg)](https://wakatime.com/@5225e8ed-9a14-4fe9-b3f5-b0a5b485c255)
+
+
+<br />
 
 ## I Code With... ⚙️💻
 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
+[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)](#)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#)
@@ -29,10 +49,8 @@ https://wakatime.com/a-look-back-at-2024/5225e8ed-9a14-4fe9-b3f5-b0a5b485c255/vy
 <br/>
 
 ## About Me 😎🎯
-- :calendar: 2024 Goals: Get a `Job` & solve 1000 problems at `Codeforces` & `Leetcode`.
-- :technologist: I love using Software to solve every `Problem`.
-- :computer: I am a little problem solver at `Codeforces`, `Leetcode` and `Codechef`.
-- :student: I’m currently learning `DSA`.
+- :calendar: 2025 Goals: Get a `Job` & solve 1000 problems at `Leetcode`.
+- :student: I’m currently learning `DSA` & `JavaScript`.
 - :nerd_face: Always `learning new tricks to solve a problem`.
 - :thinking: I’m currently open to a new `job opportunity`.
 <!-- :boom: You can visit [MY WEBSITE](https://marjan-portfolio.netlify.app/). -->
